@@ -1,0 +1,6 @@
+owner=408740963008118784
+prefix=GM
+game=GMplay
+stayinchannel=true
+songinstatus=false
+token=HcnRUgKVx2nGFtpfrpZBDHdzm3NEly9s
